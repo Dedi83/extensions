@@ -80,26 +80,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Shinigami",
-    "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.61.apk",
-    "lang": "id",
-    "code": 61,
-    "version": "1.4.61",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Shinigami",
-        "lang": "id",
-        "id": "3411809758861089969",
-        "baseUrl": "https://shinigami03.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
     "apk": "tachiyomi-id.kiryuu-v1.4.38.apk",
@@ -115,6 +95,26 @@
         "lang": "id",
         "id": "3639673976007021338",
         "baseUrl": "https://kiryuu.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Shinigami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
+    "apk": "tachiyomi-id.shinigami-v1.4.61.apk",
+    "lang": "id",
+    "code": 61,
+    "version": "1.4.61",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shinigami",
+        "lang": "id",
+        "id": "3411809758861089969",
+        "baseUrl": "https://shinigami03.com",
         "versionId": 1
       }
     ]
