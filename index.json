@@ -1,38 +1,23 @@
 [
-  {
-    "name": "Tachiyomi: Kavita",
-    "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.4.13.apk",
-    "lang": "all",
-    "code": 13,
-    "version": "1.4.13",
+    {
+    "name": "Tachiyomi: Ainz Scans ID",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
+    "apk": "tachiyomi-id.ainzscansid-v1.4.31.apk",
+    "lang": "id",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
-        "name": "Kavita (1)",
-        "lang": "all",
-        "id": "7266875667263635239",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Kavita (2)",
-        "lang": "all",
-        "id": "3764816291200082561",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Kavita (3)",
-        "lang": "all",
-        "id": "778637366235559582",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
+        "name": "Ainz Scans ID",
+        "lang": "id",
+        "id": "6828652413569586396",
+        "baseUrl": "https://ainzscans.net",
+        "versionId": 1
       }
-    ]
+      ]
   },
   {
     "name": "Tachiyomi: Komga",
