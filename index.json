@@ -80,6 +80,46 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komik Station",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikstation",
+    "apk": "tachiyomi-id.komikstation-v1.4.34.apk",
+    "lang": "id",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komik Station",
+        "lang": "id",
+        "id": "6148605743576635261",
+        "baseUrl": "https://komikstation.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komikid",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikid",
+    "apk": "tachiyomi-id.komikid-v1.4.11.apk",
+    "lang": "id",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Komikid",
+        "lang": "id",
+        "id": "4974695717580493197",
+        "baseUrl": "https://www.komikid.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
     "apk": "tachiyomi-id.shinigami-v1.4.61.apk",
@@ -117,45 +157,6 @@
         "id": "3639673976007021338",
         "baseUrl": "https://kiryuu.org",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Komikid",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komikid",
-    "apk": "tachiyomi-id.komikid-v1.4.11.apk",
-    "lang": "id",
-    "code": 11,
-    "version": "1.4.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Komikid",
-        "lang": "id",
-        "id": "4974695717580493197",
-        "baseUrl": "https://www.komikid.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Suwayomi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
-    "apk": "tachiyomi-all.tachidesk-v1.4.12.apk",
-    "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Suwayomi",
-        "lang": "all",
-        "id": "3100117499901280806",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   }
