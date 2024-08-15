@@ -20,6 +20,46 @@
       ]
   },
   {
+    "name": "Tachiyomi: BacaKomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
+    "apk": "tachiyomi-id.bacakomik-v1.4.10.apk",
+    "lang": "id",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BacaKomik",
+        "lang": "id",
+        "id": "4383360263234319058",
+        "baseUrl": "https://bacakomik.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: BirdToon",
+    "pkg": "eu.kanade.tachiyomi.extension.id.birdtoon",
+    "apk": "tachiyomi-id.birdtoon-v1.4.36.apk",
+    "lang": "id",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BirdToon",
+        "lang": "id",
+        "id": "5159452498073169941",
+        "baseUrl": "https://birdtoon.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
     "apk": "tachiyomi-all.komga-v1.4.50.apk",
