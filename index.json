@@ -99,26 +99,6 @@
       }
     ]
   },
-   {
-    "name": "Tachiyomi: Maxnime",
-    "pkg": "eu.kanade.tachiyomi.extension.id.maxnime",
-    "apk": "tachiyomi-id.maxnime-v1.4.34.apk",
-    "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Maxnime",
-        "lang": "id",
-        "id": "6148605743576635222",
-        "baseUrl": "https://maxnime.lol",
-        "versionId": 1
-      }
-    ]
-  },
   {
     "name": "Tachiyomi: Komikid",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikid",
