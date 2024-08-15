@@ -60,72 +60,62 @@
     ]
   },
   {
-    "name": "Tachiyomi: Komga",
-    "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.50.apk",
-    "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
+    "name": "Tachiyomi: CosmicScans.id",
+    "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.33.apk",
+    "lang": "id",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
-        "name": "Komga",
-        "lang": "all",
-        "id": "4508733312114627536",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Komga (2)",
-        "lang": "all",
-        "id": "8074481155021144106",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
-      },
-      {
-        "name": "Komga (3)",
-        "lang": "all",
-        "id": "5132811728275817394",
-        "baseUrl": "",
-        "versionId": 1,
-        "hasCloudflare": 0
+        "name": "CosmicScans.id",
+        "lang": "id",
+        "id": "6559481336553833282",
+        "baseUrl": "https://cosmicscans.id",
+        "versionId": 1
       }
     ]
   },
   {
-    "name": "Tachiyomi: LANraragi",
-    "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.4.15.apk",
-    "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
+    "name": "Tachiyomi: Shinigami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
+    "apk": "tachiyomi-id.shinigami-v1.4.61.apk",
+    "lang": "id",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
     "sources": [
       {
-        "name": "LANraragi (1)",
-        "lang": "all",
-        "id": "4482480338677079857",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
+        "name": "Shinigami",
+        "lang": "id",
+        "id": "3411809758861089969",
+        "baseUrl": "https://shinigami03.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kiryuu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
+    "apk": "tachiyomi-id.kiryuu-v1.4.38.apk",
+    "lang": "id",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
       {
-        "name": "LANraragi (2)",
-        "lang": "all",
-        "id": "6188058704030343819",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "LANraragi (3)",
-        "lang": "all",
-        "id": "1900742277877037366",
-        "baseUrl": "http://127.0.0.1:3000",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "name": "Kiryuu",
+        "lang": "id",
+        "id": "3639673976007021338",
+        "baseUrl": "https://kiryuu.org",
+        "versionId": 1
       }
     ]
   },
