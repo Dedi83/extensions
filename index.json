@@ -101,7 +101,7 @@
   },
    {
     "name": "Tachiyomi: Maxnime",
-    "pkg": "eu.kanade.tachiyomi.extension.id.maxime",
+    "pkg": "eu.kanade.tachiyomi.extension.id.maxnime",
     "apk": "tachiyomi-id.maxnime-v1.4.34.apk",
     "lang": "id",
     "code": 34,
@@ -111,7 +111,7 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Maxime",
+        "name": "Maxnime",
         "lang": "id",
         "id": "6148605743576635222",
         "baseUrl": "https://maxnime.lol",
