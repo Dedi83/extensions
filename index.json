@@ -1,0 +1,1024 @@
+[
+  {
+    "name": "Tachiyomi: Akuma",
+    "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
+    "apk": "tachiyomi-all.akuma-v1.4.5.apk",
+    "lang": "all",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Akuma",
+        "lang": "id",
+        "id": "1707768678643970514",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Bato.to",
+    "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
+    "apk": "tachiyomi-all.batoto-v1.4.37.apk",
+    "lang": "all",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bato.to",
+        "lang": "id",
+        "id": "1720762928205210073",
+        "baseUrl": "https://bato.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: 3600000 Beauty",
+    "pkg": "eu.kanade.tachiyomi.extension.all.beauty3600000",
+    "apk": "tachiyomi-all.beauty3600000-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "3600000 Beauty",
+        "lang": "all",
+        "id": "5498091984644576825",
+        "baseUrl": "https://3600000.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Buon Dua",
+    "pkg": "eu.kanade.tachiyomi.extension.all.buondua",
+    "apk": "tachiyomi-all.buondua-v1.4.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Buon Dua",
+        "lang": "all",
+        "id": "1435103006121310663",
+        "baseUrl": "https://buondua.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comick",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
+    "apk": "tachiyomi-all.comickfun-v1.4.47.apk",
+    "lang": "all",
+    "code": 47,
+    "version": "1.4.47",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comick",
+        "lang": "id",
+        "id": "5506707690027487154",
+        "baseUrl": "https://comick.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comico",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comico",
+    "apk": "tachiyomi-all.comico-v1.4.5.apk",
+    "lang": "all",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "POCKET COMICS",
+        "lang": "en",
+        "id": "4823827973628449637",
+        "baseUrl": "https://www.pocketcomics.com",
+        "versionId": 1
+      },
+      {
+        "name": "POCKET COMICS",
+        "lang": "zh",
+        "id": "6417478599890788940",
+        "baseUrl": "https://www.pocketcomics.com",
+        "versionId": 1
+      },
+      {
+        "name": "コミコ",
+        "lang": "ja",
+        "id": "4991718230921189832",
+        "baseUrl": "https://www.comico.jp",
+        "versionId": 1
+      },
+      {
+        "name": "코미코",
+        "lang": "ko",
+        "id": "7725570951439346591",
+        "baseUrl": "https://www.comico.kr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comicz.net v2",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comicznetv2",
+    "apk": "tachiyomi-all.comicznetv2-v1.4.36.apk",
+    "lang": "all",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comicz.net v2",
+        "lang": "all",
+        "id": "1193945179099096692",
+        "baseUrl": "https://v2.comiz.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Comikey",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comikey",
+    "apk": "tachiyomi-all.comikey-v1.4.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Comikey",
+        "lang": "en",
+        "id": "2769857481066602061",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey",
+        "lang": "es",
+        "id": "374080003312345029",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey",
+        "lang": "id",
+        "id": "1684620622390751911",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey",
+        "lang": "pt-BR",
+        "id": "4174862482785095737",
+        "baseUrl": "https://comikey.com",
+        "versionId": 1
+      },
+      {
+        "name": "Comikey Brasil",
+        "lang": "pt-BR",
+        "id": "4923846262931005728",
+        "baseUrl": "https://br.comikey.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Commit Strip",
+    "pkg": "eu.kanade.tachiyomi.extension.all.commitstrip",
+    "apk": "tachiyomi-all.commitstrip-v1.4.3.apk",
+    "lang": "all",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Commit Strip",
+        "lang": "en",
+        "id": "5328240584854276436",
+        "baseUrl": "https://www.commitstrip.com",
+        "versionId": 1
+      },
+      {
+        "name": "Commit Strip",
+        "lang": "fr",
+        "id": "4187575309418573632",
+        "baseUrl": "https://www.commitstrip.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Coomer",
+    "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
+    "apk": "tachiyomi-all.coomer-v1.4.12.apk",
+    "lang": "all",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Coomer",
+        "lang": "all",
+        "id": "8715899195746116471",
+        "baseUrl": "https://coomer.su",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: CosplayTele",
+    "pkg": "eu.kanade.tachiyomi.extension.all.cosplaytele",
+    "apk": "tachiyomi-all.cosplaytele-v1.4.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CosplayTele",
+        "lang": "all",
+        "id": "7395748658970167454",
+        "baseUrl": "https://cosplaytele.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Cubari",
+    "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
+    "apk": "tachiyomi-all.cubari-v1.4.24.apk",
+    "lang": "all",
+    "code": 24,
+    "version": "1.4.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cubari",
+        "lang": "en",
+        "id": "6338219619148105941",
+        "baseUrl": "https://cubari.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Cubari",
+        "lang": "all",
+        "id": "1470847599087460255",
+        "baseUrl": "https://cubari.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Cubari",
+        "lang": "other",
+        "id": "2013845246758512290",
+        "baseUrl": "https://cubari.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Danbooru",
+    "pkg": "eu.kanade.tachiyomi.extension.all.danbooru",
+    "apk": "tachiyomi-all.danbooru-v1.4.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Danbooru",
+        "lang": "all",
+        "id": "7602260701584916302",
+        "baseUrl": "https://danbooru.donmai.us",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dragon Ball Multiverse",
+    "pkg": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
+    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.6.apk",
+    "lang": "all",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "en",
+        "id": "5855032551259176250",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "fr",
+        "id": "7989144075938821809",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ja",
+        "id": "2033023429560344772",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "zh",
+        "id": "4903395296014438593",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "es",
+        "id": "2743233241005498558",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "it",
+        "id": "8107468051584194246",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "pt",
+        "id": "5511951724437637256",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "de",
+        "id": "7576053878109850761",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "pl",
+        "id": "8371548443782837856",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "nl",
+        "id": "5007169057258882420",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse Parody",
+        "lang": "fr",
+        "id": "5582703984897222132",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "tr",
+        "id": "7492246554765916610",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "pt-BR",
+        "id": "1618337326936347760",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "hu",
+        "id": "525585394857906081",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ga",
+        "id": "4704003050199034697",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ca",
+        "id": "8851885792094862644",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "no",
+        "id": "6890714885948456521",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ru",
+        "id": "7944056408443917590",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ro",
+        "id": "2620385605605077513",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "eu",
+        "id": "5961569572141989337",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "lt",
+        "id": "5710504167796125606",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "hr",
+        "id": "8978307150219982189",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ko",
+        "id": "2035574753584485369",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "fi",
+        "id": "3125099729987730580",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "he",
+        "id": "5131201512681860705",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "bg",
+        "id": "4845919081798207608",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "sv",
+        "id": "1446884092638094471",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "el",
+        "id": "9218696211252404910",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "es-419",
+        "id": "4156406679136971778",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "ar",
+        "id": "3744905183009204736",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "fil",
+        "id": "3217346477673086342",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "la",
+        "id": "4102859909531263289",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "da",
+        "id": "3145772760974227844",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "co",
+        "id": "8542101819541236153",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "br",
+        "id": "1106049048608045535",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "vec",
+        "id": "6824599919928625662",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      },
+      {
+        "name": "Dragon Ball Multiverse",
+        "lang": "lmo",
+        "id": "8795012289956874023",
+        "baseUrl": "https://www.dragonball-multiverse.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: E-Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
+    "apk": "tachiyomi-all.ehentai-v1.4.20.apk",
+    "lang": "all",
+    "code": 20,
+    "version": "1.4.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "E-Hentai",
+        "lang": "ja",
+        "id": "8100626124886895451",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "en",
+        "id": "57122881048805941",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "zh",
+        "id": "4678440076103929247",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "nl",
+        "id": "1876021963378735852",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "fr",
+        "id": "3955189842350477641",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "de",
+        "id": "4348288691341764259",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "hu",
+        "id": "773611868725221145",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "it",
+        "id": "5759417018342755550",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "ko",
+        "id": "825187715438990384",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "pl",
+        "id": "6116711405602166104",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "pt-BR",
+        "id": "7151438547982231541",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "ru",
+        "id": "2171445159732592630",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "es",
+        "id": "3032959619549451093",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "th",
+        "id": "5980349886941016589",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "vi",
+        "id": "6073266008352078708",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "none",
+        "id": "5499077866612745456",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      },
+      {
+        "name": "E-Hentai",
+        "lang": "other",
+        "id": "6140480779421365791",
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Elite Babes",
+    "pkg": "eu.kanade.tachiyomi.extension.all.elitebabes",
+    "apk": "tachiyomi-all.elitebabes-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Elite Babes",
+        "lang": "all",
+        "id": "6842598531101194683",
+        "baseUrl": "https://www.elitebabes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Eromanhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.all.eromanhwa",
+    "apk": "tachiyomi-all.eromanhwa-v1.4.36.apk",
+    "lang": "all",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Eromanhwa",
+        "lang": "en",
+        "id": "3597355706480775153",
+        "baseUrl": "https://eromanhwa.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: EternalMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.all.eternalmangas",
+    "apk": "tachiyomi-all.eternalmangas-v1.4.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EternalMangas",
+        "lang": "es",
+        "id": "1533901034425595323",
+        "baseUrl": "https://eternalmangas.com",
+        "versionId": 1
+      },
+      {
+        "name": "EternalMangas",
+        "lang": "en",
+        "id": "5438790096530288259",
+        "baseUrl": "https://eternalmangas.com",
+        "versionId": 1
+      },
+      {
+        "name": "EternalMangas",
+        "lang": "pt-BR",
+        "id": "4895816221191932497",
+        "baseUrl": "https://eternalmangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Everia.club",
+    "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
+    "apk": "tachiyomi-all.everiaclub-v1.4.9.apk",
+    "lang": "all",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Everia.club",
+        "lang": "all",
+        "id": "7698513740234984368",
+        "baseUrl": "https://everia.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Femjoy Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
+    "apk": "tachiyomi-all.femjoyhunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Femjoy Hunter",
+        "lang": "all",
+        "id": "9185590742756804817",
+        "baseUrl": "https://www.femjoyhunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FoamGirl",
+    "pkg": "eu.kanade.tachiyomi.extension.all.foamgirl",
+    "apk": "tachiyomi-all.foamgirl-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FoamGirl",
+        "lang": "all",
+        "id": "5874068195320206396",
+        "baseUrl": "https://foamgirl.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FoolSlide Customizable",
+    "pkg": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
+    "apk": "tachiyomi-all.foolslidecustomizable-v1.4.3.apk",
+    "lang": "all",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FoolSlide Customizable",
+        "lang": "other",
+        "id": "6351052922295965587",
+        "baseUrl": "https://127.0.0.1",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Frelein Books",
+    "pkg": "eu.kanade.tachiyomi.extension.all.freleinbooks",
+    "apk": "tachiyomi-all.freleinbooks-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Frelein Books",
+        "lang": "all",
+        "id": "6187349985569291135",
+        "baseUrl": "https://books.frelein.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FTV Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ftvhunter",
+    "apk": "tachiyomi-all.ftvhunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FTV Hunter",
+        "lang": "all",
+        "id": "2424130356866336342",
+        "baseUrl": "https://www.ftvhunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Galaxy",
+    "pkg": "eu.kanade.tachiyomi.extension.all.galaxy",
+    "apk": "tachiyomi-all.galaxy-v1.4.4.apk",
+    "lang": "all",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Galaxy Webtoon",
+        "lang": "en",
+        "id": "2602904659965278831",
+        "baseUrl": "https://galaxyaction.net",
+        "versionId": 1
+      },
+      {
+        "name": "Galaxy Manga",
+        "lang": "ar",
+        "id": "2729515745226258240",
+        "baseUrl": "https://galaxymanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Grabber Zone",
+    "pkg": "eu.kanade.tachiyomi.extension.all.grabberzone",
+    "apk": "tachiyomi-all.grabberzone-v1.4.36.apk",
+    "lang": "all",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Grabber Zone",
+        "lang": "all",
+        "id": "7008887237419113673",
+        "baseUrl": "https://grabber.zone",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hennojin",
+    "pkg": "eu.kanade.tachiyomi.extension.all.hennojin",
+    "apk": "tachiyomi-all.hennojin-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hennojin",
+        "lang": "en",
+        "id": "2486465102799235219",
+        "baseUrl": "https://hennojin.com/home/",
+        "versionId": 1
+      },
+      {
+        "name": "Hennojin",
+        "lang": "ja",
+        "id": "6754172311859665554",
+        "baseUrl": "https://hennojin.com/home/?archive=raw",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Zerobyw",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.zerobyw",
+    "apk": "tachiyomi-zh.zerobyw-v1.4.18.apk",
+    "lang": "zh",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "zero搬运网",
+        "lang": "zh",
+        "id": "8743284448117690086",
+        "baseUrl": "http://www.zerobyw8.com",
+        "versionId": 1
+      }
+    ]
+  }
+]
