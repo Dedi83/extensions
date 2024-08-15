@@ -6,15 +6,15 @@
 
 ## Source Code
 
-https://github.com/keiyoushi/extensions-source
+https://tachiyomi.org/extensions
 
 ## Report issues
 
-https://github.com/keiyoushi/extensions-source/issues/new/choose
+https://github.com/Dedi83/extensions
 
 ## Guide
 
-[Getting started](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo)
+[Getting started](https://github.com/Dedi83/extensions)
 
 # Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/)
+If you're not using any of the above fork then manually download and update extensions from [the listing page](https://github.com/Dedi83)
