@@ -93,8 +93,28 @@
       {
         "name": "Komik Station",
         "lang": "id",
-        "id": "6148605743576635261",
+        "id": "6148605743576635222",
         "baseUrl": "https://komikstation.co",
+        "versionId": 1
+      }
+    ]
+  },
+   {
+    "name": "Tachiyomi: Maxnime",
+    "pkg": "eu.kanade.tachiyomi.extension.id.maxime",
+    "apk": "tachiyomi-id.maxnime-v1.4.34.apk",
+    "lang": "id",
+    "code": 34,
+    "version": "1.4.34",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Maxime",
+        "lang": "id",
+        "id": "6148605743576635222",
+        "baseUrl": "https://maxnime.lol",
         "versionId": 1
       }
     ]
