@@ -1,2 +1,0 @@
-# extensions
-Tachiyomi exstension indo
